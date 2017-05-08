@@ -1,0 +1,10 @@
+OOP_Laba_3.Rectangle set_figuraName
+Very good rectangle
+OOP_Laba_3.Rectangle peremesch
+5
+8
+OOP_Laba_3.Rectangle PrintInfo
+OOP_Laba_3.Button PrintInfo
+OOP_Laba_3.Button WriteToFile
+E:\\SydaZapishet.txt
+OOP_Laba_3.Button move

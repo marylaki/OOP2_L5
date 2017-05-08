@@ -1,0 +1,15 @@
+E:\УЧЁБА\2 Курс\2 семестр\ООП\Лабы\ООP_Laba_3\ООP_Laba_3\bin\Debug\ООP_Laba_3.exe.config
+E:\УЧЁБА\2 Курс\2 семестр\ООП\Лабы\ООP_Laba_3\ООP_Laba_3\bin\Debug\ООP_Laba_3.exe
+E:\УЧЁБА\2 Курс\2 семестр\ООП\Лабы\ООP_Laba_3\ООP_Laba_3\bin\Debug\ООP_Laba_3.pdb
+E:\УЧЁБА\2 Курс\2 семестр\ООП\Лабы\ООP_Laba_3\ООP_Laba_3\obj\Debug\ООP_Laba_3.csprojResolveAssemblyReference.cache
+E:\УЧЁБА\2 Курс\2 семестр\ООП\Лабы\ООP_Laba_3\ООP_Laba_3\obj\Debug\ООP_Laba_3.exe
+E:\УЧЁБА\2 Курс\2 семестр\ООП\Лабы\ООP_Laba_3\ООP_Laba_3\obj\Debug\ООP_Laba_3.pdb
+E:\УЧЁБА\2 К\2с\ООП\Лабы\ООP_Laba_3\ООP_Laba_3\bin\Debug\ООP_Laba_3.exe.config
+E:\УЧЁБА\2 К\2с\ООП\Лабы\ООP_Laba_3\ООP_Laba_3\obj\Debug\ООP_Laba_3.exe
+E:\УЧЁБА\2 К\2с\ООП\Лабы\ООP_Laba_3\ООP_Laba_3\obj\Debug\ООP_Laba_3.pdb
+E:\УЧЁБА\2 К\2с\ООП\Лабы\OOP_Laba5\ООP_Laba_3\ООP_Laba_3\bin\Debug\ООP_Laba_3.exe.config
+E:\УЧЁБА\2 К\2с\ООП\Лабы\OOP_Laba5\ООP_Laba_3\ООP_Laba_3\obj\Debug\ООP_Laba_3.exe
+E:\УЧЁБА\2 К\2с\ООП\Лабы\OOP_Laba5\ООP_Laba_3\ООP_Laba_3\obj\Debug\ООP_Laba_3.pdb
+E:\УЧЁБА\2 К\2с\ООП\Лабы\OOP_Laba5\ООP_Laba_3\ООP_Laba_3\bin\Debug\ООP_Laba_3.exe
+E:\УЧЁБА\2 К\2с\ООП\Лабы\OOP_Laba5\ООP_Laba_3\ООP_Laba_3\bin\Debug\ООP_Laba_3.pdb
+E:\УЧЁБА\2 К\2с\ООП\Лабы\OOP_Laba5\ООP_Laba_3\ООP_Laba_3\obj\Debug\ООP_Laba_3.csprojResolveAssemblyReference.cache
